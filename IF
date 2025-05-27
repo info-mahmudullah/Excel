@@ -1,0 +1,11 @@
+IF 
+
+logical _test = এখানে বিভিন্ন শর্ত দেওয়া হয় যেমন:
+
+IF(D2 (নাম্বার সেল) => 500 " good" 
+[value_good]
+[Value_if_False]
+
+Logical test তিন প্রকার
+
+IF AND OR
